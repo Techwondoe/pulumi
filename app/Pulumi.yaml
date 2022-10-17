@@ -1,0 +1,6 @@
+name: app
+description: Creating a sample s3 bucket with basic permissions
+runtime:
+    name: python
+    options:
+        virtualenv: venv
